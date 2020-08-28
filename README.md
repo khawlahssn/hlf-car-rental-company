@@ -1,6 +1,6 @@
 # car-rental-network
 
-Provide a trustworthy platform for renting cars.
+Provide a trustworthy platform for renting cars using Blockchain Technology.
 
 Note:
 This project serves as an introduction to building blockchain applications. 
