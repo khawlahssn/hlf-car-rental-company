@@ -1,13 +1,15 @@
-# car-rental-network project description:
+car-rental-network project description:
+
 Provide a trustworthy platform for renting cars using Blockchain Technology.
 
-========================
-# Note:
+Note:
+
 1. This project serves as an introduction to building blockchain applications. 
 2. Please use the code along with the manual created for the workshop.
-========================
+
 
 # To create a skeleton network using Yeoman generator:
+
 yo hyperledger-composer:businessnetwork
 
 # To package BND into a BNA file:
@@ -40,6 +42,6 @@ composer card import --file networkadmin.card
 
 composer network ping --card admin@car-rental-network
 
-# To generate a Composer REST API based on our network:
+# To generate a REST API based on our network:
 
 composer-rest-server
